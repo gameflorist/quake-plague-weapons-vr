@@ -1,0 +1,3 @@
+- models and textures for base game by Plague (https://members.optusnet.com.au/%7eplaguespak/).
+- converted and animated for VR by Skizot
+- added Proximity/Multi Launchers, Lava Nailguns and Plasma Gun by codeflorist
