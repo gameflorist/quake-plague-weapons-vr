@@ -10,6 +10,10 @@ Expansion pack weapons were added by codeflorist (by editing textures of Plague'
 
 There is also a special package for usage with the [Alkaline](https://alkalinequake.wordpress.com/) mod.
 
+## Download
+
+You can download the release packages [here](https://github.com/gameflorist/quake-plague-weapons-vr/releases).
+
 ## Usage with QuakeSpasm-OpenVR
 
 To use them with QuakeSpasm-OpenVR, extract `pakz.pak` into your `id1` subfolder and rename it by changing the `z` to a number higher then the highest existing `pak`-file inside your `id1` folder. If you are using `pak` files from vanilla Quake this will be `pak2.pak`, and if you're using the Re-Release, it will be `pak1.pak`.
